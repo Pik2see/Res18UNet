@@ -7,6 +7,6 @@
 - `evaluate.py`: 评估模块
 - `dataset.py`: 数据集制作
 - `checkdata.py`: 跨设备传输数据校验
-- `sgykit.py`: segy文件处模块
+- `sgykit.py`: segy文件处理模块
 - `unet3d.py`: 原始模型结构代码
 - `requirements.txt`: 环境目录
