@@ -9,3 +9,4 @@
 - `checkdata.py`: 跨设备传输数据校验
 - `sgykit.py`: segy文件处模块
 - `unet3d.py`: 原始模型结构代码
+- `requeirements.txt`: 环境目录
